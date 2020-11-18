@@ -2,7 +2,7 @@
 
 I am a Computer Science student with a keen interest in Cyber Security, and Penetration Testing, Network, Cellular and Wi-Fi Security to be precise. 
 
-- 💻 Currently learning and growing my skill-sets of Python, Networking, Windows Active Directory, Penetration Testing and Security.
+- 💻 Currently learning and growing my skill-sets of Python, Networking, Windows Active Directory, Penetration Testing.
 - 🙋🏽 Keen interest for all technologies
 - 📶 Worked and studied some [SDR](https://github.com/alt-glitch/SDR-101) and Cellular Communication
 - 👨🏾‍💻 Love to do [TryHackMe](https://tryhackme.com/p/glitch) whenever possible
