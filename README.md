@@ -1,12 +1,8 @@
 ## Hello There!
 
-I am a Computer Science student with a keen interest in Cyber Security, and Penetration Testing, Network, Cellular and Wi-Fi Security to be precise. 
+I am a Computer Science student with a keen interest in Security Research and Engineering. 
 
-- 💻 Currently learning and growing my skill-sets of Python, Network Programming, Network Security and Linux.
+- 💻 Currently learning and growing my skill-sets of C, Linux, Cloud and Cloud Native alongwith Security Research and Engineering.
 - 🙋🏽 Keen interest for all technologies.
-- 📶 Worked and studied some [SDR](https://github.com/alt-glitch/SDR-101) and Cellular Communication.
-- 👨🏾‍💻 Love to do [TryHackMe](https://tryhackme.com/p/glitch) whenever possible.
-- ✍🏽 I maintain a [blog](https://sidb.in) and try to post write-ups of CTFs and Security stuff.
-- 📱 You can reach me at [Twitter](https://twitter.com/siddharthdotexe), [LinkedIn](https://www.linkedin.com/in/siddharth-balyan/) or Discord (alt-glitch#5507).
-- 🐍 Do check out some of my small Python projects I make to teach myself Python below.
-
+- ✍🏽 I maintain a [blog](https://sidb.in/) where I post about anything which interests me ranging from CTFs to Cloud Native Technologies.
+- 📱 You can reach me at [Twitter](https://twitter.com/alt__glitch), [LinkedIn](https://www.linkedin.com/in/siddharth-balyan/) or Discord (alt-glitch#5507).
